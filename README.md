@@ -4,8 +4,11 @@ A simple Connect 4 game implemented in C++, built to practice data structures, g
 
 📌 Features
 🟡 Two-player mode (turn-based).
+
 🟢 Dynamic board rendering after every move.
+
 🔴 Win detection for horizontal, vertical, and diagonal connections.
+
 🔵 Input validation to prevent invalid moves.
 
 
