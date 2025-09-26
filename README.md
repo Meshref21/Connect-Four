@@ -27,7 +27,9 @@ g++ Connect4.cpp -o connect4
 ```
 ./connect4
 ```
-Enjoy!
+If you don't have compiler installed I prefer using online compiler.
+
+✅ HOW TO PLAY
 
 Pick a number Ranges 1 to 7
 First player connects four vertically , Horizontally or Diagonally wins.
@@ -40,11 +42,12 @@ First player connects four vertically , Horizontally or Diagonally wins.
 | X | O | X | O | X | O | X |
 ```
 
-For those who don't know how to play check this out
+For those who don't know how to play I suggest checking this out
 ```
 https://www.youtube.com/watch?v=ylZBRUJi3UQ
 ```
-NOTE : If you don't have c++ installed I prefer using online compiler.
+
+ENJOY!
 
 If you faced any issue just email me : mm333242@gmail.com
 
