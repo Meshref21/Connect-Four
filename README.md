@@ -10,6 +10,7 @@ A simple Connect 4 game implemented in C++, built to practice data structures, g
 
 
 🚀 Getting Started
+
 1️⃣ Clone the repository
 ```
 git clone https://github.com/Meshref21/Connect-Four.git
