@@ -3,6 +3,7 @@
 A simple Connect 4 game implemented in C++, built to practice data structures, game logic, and clean coding practices.
 
 📌 Features
+
 🟡 Two-player mode (turn-based).
 
 🟢 Dynamic board rendering after every move.
